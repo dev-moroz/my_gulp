@@ -12,16 +12,16 @@
   "devDependencies": {
     "browser-sync": "latest",
     "del": "latest",
-    "gulp": "^4.0.2",
+    "gulp": "latest",
     "gulp-autoprefixer": "latest",
     "gulp-concat": "latest",
     "gulp-csso": "latest",
     "gulp-file-include": "latest",
     "gulp-htmlmin": "latest",
-    "gulp-sass": "^5.0.0",
-    "sass": "^1.43.4"
+    "gulp-sass": "latest",
+    "sass": "latest"
   },
   "dependencies": {
-    "node-sass": "^6.0.1"
+    "node-sass": "latest"
   }
 }
