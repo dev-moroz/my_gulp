@@ -1,0 +1,6 @@
+# Игнорировать папку node_modules
+/node_modules
+# Игнорировать html файлы
+/dist
+# Игнорировать  package-lock.json файл
+# package-lock.json

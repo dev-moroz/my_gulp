@@ -1,0 +1,31 @@
+$red: yellow;
+body{
+background-color: black;
+}
+
+h1 {
+    color: $red;
+}
+
+.menu{
+
+}
+.menu_items{
+    display: flex;
+    color: white;
+    list-style: none;
+    gap: 10px;
+}
+.menu_item{
+    padding: 8px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.home_li{
+    color: white;
+    list-style: none;
+}
+.menu_item{
+
+}
